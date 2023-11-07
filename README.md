@@ -1,3 +1,5 @@
+![pytest-coverage-badge](https://img.shields.io/static/v1?label=pytest-coverage🛡️&message=47%&color=orange)
+
 # Week 1 Project: Building a Calculator
 
 ## Project Overview
